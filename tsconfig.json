@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "dist/dts",
+    "esModuleInterop": true
+  },
+}
